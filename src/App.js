@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import { Row, Col, Grid, Button, Popover, OverlayTrigger, Modal } from 'react-bootstrap';
+
 const popoverClickRootClose = (
   <Popover id="popover-trigger-click-root-close" title="Popover bottom">
     <strong>Holy guacamole!</strong> Check this info.
